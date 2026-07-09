@@ -1,3 +1,6 @@
+def greet_white():
+    print("hello white")
+
 def main():
     print("hello")
 
